@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a website.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning the MERN stack.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about how to strike the perfect balance between capitalism and socialism. Wait, actually don't.
