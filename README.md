@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... A website
-- 🌱 I’m currently learning ... NodeJS, MongoDB
-- 👯 I’m looking to collaborate on ... NodeJS, MongoDB
-- 🤔 I’m looking for help with ... NodeJS, MongoDB
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on a website.
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with everything.
+- 💬 Ask me about how to strike the perfect balance between capitalism and socialism. Wait, actually don't.
 - 📫 How to reach me: ... [Facebook](https://www.facebook.com/adi.v2.0/)
 
 
