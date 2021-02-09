@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a website.
+- 🔭 I’m currently working on a webapp.
 - 🌱 I’m currently learning the MERN stack.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with everything.
